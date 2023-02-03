@@ -1,7 +1,7 @@
 # Quantium Data Analytics Virtual Experience Program
 
 
-## Tasks1
+## Task1
 Data preparation and customer analytics
 Conducted analysis on the client's transaction dataset to identify customer purchasing behaviours to generate insights and provide commercial recommendations.
 
